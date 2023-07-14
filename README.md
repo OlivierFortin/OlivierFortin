@@ -14,7 +14,7 @@ When it comes to development, my primary tool of choice is Neovim. A highly conf
 
 Besides teaching, I enjoy delving into the thrilling world of CTF challenges. It allows me to sharpen my problem-solving skills and keep up to date with the latest in cybersecurity. I also stream these sessions on Twitch, making it an interactive and fun learning experience for my students and followers alike.
 
-You can check out team here : [CSI-CSTJEAN](https://ctftime.org/team/59065) 
+You can check out our team here : [CSI-CSTJEAN](https://ctftime.org/team/59065) 
 
 ## 💻 Operating System
 
